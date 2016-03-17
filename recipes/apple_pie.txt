@@ -2,5 +2,6 @@
 
 ost
 korv 
+tårta
 sallad
-mat
+2 mat
