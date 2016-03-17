@@ -1,7 +1,6 @@
 ﻿Äppelpaj
 
-ost
-korv 
+
 tårta
 sallad
 mat
